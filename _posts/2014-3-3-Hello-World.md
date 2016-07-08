@@ -1,9 +1,7 @@
 ---
 layout: post
-title: The First Post
+title: Science So Hard
 ---
-
-## Science So Hard
 
 > Data sciencing so hard at [Metis](http://www.thisismetis.com/)! Week one and done.
 
